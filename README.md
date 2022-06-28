@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @polono3000
-- 👀 I’m interested in finding a career sweet spot between Architecture & CompSci
+- 👀 I’m interested learning Python to explore data-driven and generative design tools in Architecture
 - 🌱 I’m currently learning Git, Python, Dynamo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
